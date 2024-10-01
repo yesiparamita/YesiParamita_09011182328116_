@@ -16,7 +16,7 @@ Hal pertama yang perlu Anda lakukan sebelum mulai menginstal SSH di Ubuntu adala
 ![Cuplikan layar 2024-10-02 040642](https://github.com/user-attachments/assets/71625aea-843a-4409-8f7e-849ab22e216f)
 
 Langkah 2: Instal SSH di Ubuntu.\
-OpenSSH belum terinstal di sistem, jadi mari kita instal secara manual. Untuk melakukannya, ketik di terminal:
+Open SSH belum terinstal di sistem, jadi mari kita instal secara manual. Untuk melakukannya, ketik di terminal:
 
 ![Cuplikan layar 2024-10-02 040732](https://github.com/user-attachments/assets/2386eff6-aec9-4cd4-ba78-2d7b52c95a10)
 
