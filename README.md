@@ -20,7 +20,7 @@ OpenSSH belum terinstal di sistem, jadi mari kita instal secara manual. Untuk me
 
 ![Cuplikan layar 2024-10-02 040732](https://github.com/user-attachments/assets/2386eff6-aec9-4cd4-ba78-2d7b52c95a10)
 
-nstalasi semua komponen yang diperlukan akan dimulai. Jawab "Ya" untuk semua perintah sistem.
+Instalasi semua komponen yang diperlukan akan dimulai. Jawab "Ya" untuk semua perintah sistem.
 Setelah instalasi selesai, lanjutkan ke langkah berikutnya untuk memulai layanan.
 
 Langkah 3: Mulai SSH.\
